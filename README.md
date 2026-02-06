@@ -51,6 +51,8 @@ Encrypted SQLite Database (storage.db)
 <img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/6e3b18fe-dbd4-46cc-b24c-e1ed79dd16ae" />
 -PASSWORD VAULT:
 <img width="1920" height="826" alt="image" src="https://github.com/user-attachments/assets/f7060199-6d6f-4d09-9d3f-abf256805c0b" />
+-PASSWORD CHECKER:
+<img width="1797" height="811" alt="image" src="https://github.com/user-attachments/assets/cd3c4057-f842-41db-813c-1bbf25a8f8ac" />
 
 
 This application is intended to run locally for security reasons.
